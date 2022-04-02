@@ -1,2 +1,29 @@
-Link para download do Git: https://git-scm.com/download/win
+Básica introdução ao Git/GitHub...
+
+👍 Link para download do Git: https://git-scm.com/download/win
+
 O Git Bash é um terminal extendido para utilizar o uso do Git.
+
+Alguns comandos do Git Bash:
+
+👾git init - iniciar o git dentro da pasta workspace
+👾git add - Adicionar
+👾git commit - novo commit
+👾git status - ver estatus
+👾git config --list   listar as configurações do git
+👾git remote add origin   e o link do github para add repositorio
+👾git remote -v   mostrar lista do github
+👾git push origin master  mostrar se enviou o repositorio
+👾git pull origin master  puchar conteudo do github
+
+Configurar Usuário Git:
+
+😎git config --global user.email "seu email"
+😎git config --global user.name seuusuario
+
+Adicionando commit no Git Bash:
+
+👍git add *
+👍git commit -m "nome"
+
+Fim da Básica Introdução ao Git/GitHub.
